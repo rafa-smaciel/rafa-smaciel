@@ -27,7 +27,7 @@ Large experience in complex projects. Full domain in the development of complete
 ____
 
  <p align="center">
-  <a href="https://github.com/RafaelMacielDev">
+  <a href="https://github.com/rafael-smaciel">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rafael-smaciel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  </p>
  
