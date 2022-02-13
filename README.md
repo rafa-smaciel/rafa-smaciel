@@ -19,7 +19,7 @@ My name is Rafael Maciel, from Brazil.🇺🇸. I work as a Full Stack Developer
 <!--<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>-->
 </div>
 
-### Would you like to find me?
+<!-- ### Would you like to find me? -->
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-ivo-maciel-j%C3%BAnior-658136145)](https://linkedin.com/in/jos%C3%A9-ivo-maciel-j%C3%BAnior-658136145) -->
 
